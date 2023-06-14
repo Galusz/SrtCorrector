@@ -1,0 +1,15 @@
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\bin\Debug\net6.0\SubtitleCorrector.exe
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\bin\Debug\net6.0\SubtitleCorrector.deps.json
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\bin\Debug\net6.0\SubtitleCorrector.runtimeconfig.json
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\bin\Debug\net6.0\SubtitleCorrector.dll
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\bin\Debug\net6.0\SubtitleCorrector.pdb
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.csproj.AssemblyReference.cache
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.AssemblyInfoInputs.cache
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.AssemblyInfo.cs
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.csproj.CoreCompileInputs.cache
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.dll
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\refint\SubtitleCorrector.dll
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.pdb
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\SubtitleCorrector.genruntimeconfig.cache
+C:\Users\Galusz\source\repos\SubtitleCorrector\SubtitleCorrector\obj\Debug\net6.0\ref\SubtitleCorrector.dll
